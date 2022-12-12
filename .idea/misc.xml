@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/drawable/button_back.xml" value="0.1765" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/drawable/ic_baseline_wifi_off_24.xml" value="0.1765" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/drawable/search_menu_tile.xml" value="0.188" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/drawable/searchview_back.xml" value="0.147" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/drawable/serchview_back.xml" value="0.147" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/drawable/splas_icon_back.xml" value="0.1765" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/layout/activity_main.xml" value="0.1765625" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/layout/activity_splash_and_permission.xml" value="0.18" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/layout/activity_view_image.xml" value="0.18854166666666666" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/layout/dowload_card.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/layout/download_card.xml" value="0.1765625" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/layout/fragment_download.xml" value="0.12447916666666667" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/layout/fragment_wallpaper.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/layout/retry_perm_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/layout/view_wallpaper.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/layout/wallpaper_card.xml" value="0.25" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/layout/fragment_download.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/layout/fragment_wallpaper.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/layout/wallpaper_card.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WallpaperApiApplication/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

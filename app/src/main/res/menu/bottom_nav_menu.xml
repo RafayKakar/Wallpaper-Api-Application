@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/wallpapers_item"
+        android:icon="@drawable/ic_baseline_wallpaper_24"
+        android:title="Wallpapers" />
+    <item
+        android:id="@+id/downloads_item"
+        android:icon="@drawable/ic_baseline_arrow_downward_24"
+        android:title="Downloads" />
+</menu>

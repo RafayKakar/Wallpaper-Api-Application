@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#FFF"
+        android:layout_margin="@dimen/_10sdp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/_10sdp">
+
+            <TextView
+                android:id="@+id/messagetext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:fontFamily="sans-serif"
+                android:textColor="#000"
+                android:textSize="@dimen/_12sdp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginBottom="@dimen/_15sdp"
+                android:gravity="right">
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/cancel_conn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/_25sdp"
+                    android:background="@drawable/button_back"
+                    android:text="Cancel"
+                    android:textAllCaps="false" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/proceed_conn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/_25sdp"
+                    android:layout_marginLeft="@dimen/_10sdp"
+                    android:background="@drawable/button_back"
+                    android:text="Proceed"
+                    android:textAllCaps="false" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+</layout>
