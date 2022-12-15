@@ -49,7 +49,6 @@ class DownloadFragment : Fragment(), DownloadsAdapter.DownloadedWallpaperOptions
         //Receiver for downloaded wallpapers
         object : BroadcastReceiver() {
             override fun onReceive(p0: Context?, p1: Intent?) {
-                Log.d("dq3d", "onReceive: ")
                 if (p1?.getStringExtra("downloads").toString() != null) {
                     downloadedWallpapersList.clear()
                     inflateList()
